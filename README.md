@@ -34,3 +34,6 @@ To be successful in programming, it' s essential to have a deep understanding of
 
 # 2023-11-24
 - "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. It's important to consider not only the functionality of your program but also its readability and extensibility. Invest time in planning and designing your code before diving into implementation. Remember, programming is not just about solving problems but also about creating solutions that can be easily understood and built upon by others."
+
+# 2023-11-25
+- "Write code that is easy to understand and maintain. Code should be written for humans, not just computers. Use clear and descriptive variable names, write concise and well-structured functions, and add comments to explain complex logic. Remember that you may have to come back to this code months or even years from now, so make it easy for your future self (or someone else) to pick up where you left off."
