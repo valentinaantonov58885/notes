@@ -37,3 +37,6 @@ To be successful in programming, it' s essential to have a deep understanding of
 
 # 2023-11-25
 - "Write code that is easy to understand and maintain. Code should be written for humans, not just computers. Use clear and descriptive variable names, write concise and well-structured functions, and add comments to explain complex logic. Remember that you may have to come back to this code months or even years from now, so make it easy for your future self (or someone else) to pick up where you left off."
+
+# 2023-11-26
+- "Keep it simple, stupid!"
