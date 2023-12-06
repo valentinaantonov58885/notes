@@ -80,3 +80,8 @@ Second, always plan your day or week ahead of time, so you know what you need to
 
 # 2023-12-05
 - "Keep it simple, stupid!"
+
+# 2023-12-06
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potentially worse performance overall. It's important to write clean, understandable code first and optimize only when profiling indicates a bottleneck.
