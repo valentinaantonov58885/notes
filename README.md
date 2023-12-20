@@ -138,3 +138,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-19
 - Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, commenting your code effectively, and organizing your code into logical modules or functions. Writing code that is easy to read and understand will not only make it easier for others to work with your code but also make it easier for you to debug and modify in the future. Additionally, adhering to best practices and design patterns can help ensure that your code is scalable, efficient, and robust. Ultimately, writing high-quality code that is easy to understand and maintain is essential for building reliable and sustainable software systems.
+
+# 2023-12-20
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when necessary, and only after profiling and identifying bottlenecks. Remember that optimizing too early can lead to unnecessary complexity, bugs, and wasted time.
