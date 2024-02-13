@@ -333,3 +333,9 @@ In practice, this means choosing clear variable names, breaking down complex fun
 
 # 2024-02-12
 - "Keep it simple, stupid!"
+
+# 2024-02-13
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing, you can ensure that your time and energy are being used wisely.
+
+Secondly, planning ahead is crucial. Before starting a new project or undertaking a task, take the time to plan out the steps and expected outcomes. Knowing what you want to achieve and how you plan to get there will make the process smoother and less likely to derail. Planning also helps you stay focused and avoid getting lost in the weeds. 
+ -- 211个词
