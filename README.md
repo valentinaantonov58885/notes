@@ -468,3 +468,10 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 Next, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will ensure you have enough time to complete each task and avoid last-minute stress. It will also help to break down larger tasks into smaller, more manageable pieces, making it easier to stay on track. 
  - 来自n.p.m.
+
+# 2024-03-12
+- Today's programming wisdom is:
+
+"Premature optimization is the root of all evil." - Donald Knuth
+
+In fewer than 200 words: This quote highlights that over-concern with optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potential bugs. It reminds programmers to focus first on writing clear, correct, and maintainable code, then optimize only when profiling and analysis identify genuine bottlenecks. Remember, understanding the problem domain and choosing the right algorithms/data structures often yield greater performance gains than micro-optimizations.
